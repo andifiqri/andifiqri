@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Fiqri!
 
-🔍 Aspiring Data Analyst with a passion for uncovering insights from data<br>🎓 Studied Economics at Hasanuddin University, Indonesia<br>📂 Actively working on data analytics projects to build a strong portfolio<br>🎯 Open to opportunities in data analytics to contribute and grow<br>💡 Enthusiastic about learning new tools and solving real-world problems through data
+Data Analyst | SQL · Python · Power BI · Excel<br>Finding the story behind the numbers.<br>Working on data projects to solve real business problems.<br>🎯 Open to opportunities in data analytics to contribute and grow<br>Always open to feedback and collaboration.
 
 
 ## 🌐 Socials
