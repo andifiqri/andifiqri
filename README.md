@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Fiqri!
 
-Data Analyst | SQL · Python · Power BI · Excel<br>Finding the story behind the numbers.<br>Working on data projects to solve real business problems.<br>🎯 Open to opportunities in data analytics to contribute and grow<br>Always open to feedback and collaboration.
+Data Analyst | SQL · Python · Power BI · Excel<br>Finding the story behind the numbers.<br>Working on data projects to solve real business problems.<br>Always open to feedback and collaboration.
 
 
 ## 🌐 Socials
